@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GanjiNagendhraPrasad/Food-Classification-Using-Deep-Learning-CNN-/main/static/pp.png" width="180"/>
+<img src="https://raw.githubusercontent.com/GanjiNagendhraPrasad/Food-Classification-Using-Deep-Learning-CNN-/main/static/pp.png" width="190" style="border-radius:50%;" />
 
 # 🍔 Food Classification Using Deep Learning CNN
 
@@ -10,15 +10,15 @@
 
 <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/TensorFlow-2.13-orange?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Flask-Web%20App-black?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Flask-Web%20Application-black?style=for-the-badge&logo=flask"/>
 <img src="https://img.shields.io/badge/Redis-Database-red?style=for-the-badge&logo=redis"/>
 <img src="https://img.shields.io/badge/DeepLearning-CNN-purple?style=for-the-badge"/>
 
 <br><br>
 
-## 👨‍💻 Developed By
+<h2>👨‍💻 Developed By</h2>
 
-# G. Nagendhra Prasad
+<h1>G. Nagendhra Prasad</h1>
 
 📧 gnagendhraprasad4@gmail.com
 
@@ -38,29 +38,37 @@
 
 # 🌟 About The Project
 
-This project is an advanced **AI-powered Food Classification System** developed using:
+This project is an advanced **AI-powered Food Classification System** developed using modern **Deep Learning and Computer Vision techniques**.
 
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 🌐 Flask Web Framework
-- 🔴 Redis Database
-- ⚡ Real-Time Prediction System
+The application can classify **34 different food categories** using multiple deep learning architectures such as:
 
-The application can classify **34 different food categories** using multiple deep learning architectures.
+- 🧠 Custom CNN
+- ⚙️ VGG16
+- 🚀 ResNet50
+
+The system also integrates:
+
+✅ Flask Web Application  
+✅ Redis Database  
+✅ Nutrition Recommendation System  
+✅ Real-Time Prediction  
+✅ Transfer Learning  
+✅ Interactive AI Dashboard  
 
 ---
 
 # 🔥 Core Features
 
-✅ Multi Deep Learning Models  
-✅ Real-Time Food Prediction  
-✅ Flask Web Application  
-✅ Redis Database Integration  
-✅ Nutrition Information Retrieval  
-✅ Modern Interactive Dashboard  
-✅ Transfer Learning Models  
-✅ Top-5 Prediction System  
-✅ End-to-End AI Workflow  
+| Feature | Description |
+|------|------|
+| 🧠 Multi Model Prediction | Supports CNN, VGG16 & ResNet50 |
+| ⚡ Real-Time Prediction | Instant AI-based food classification |
+| 🔴 Redis Database | Nutrition data storage & retrieval |
+| 🍽 Nutrition Information | Calories, Protein, Carbs, Fats & Fiber |
+| 🌐 Flask Deployment | Complete AI web application |
+| 📈 Top-5 Prediction System | Shows highest probability predictions |
+| 🎨 Modern UI | Attractive AI dashboard interface |
+| 🚀 Transfer Learning | Improved model performance |
 
 ---
 
@@ -68,8 +76,8 @@ The application can classify **34 different food categories** using multiple dee
 
 | Model | Description |
 |------|------|
-| 🧠 Custom CNN | CNN built from scratch |
-| ⚙️ VGG16 | Transfer Learning Model |
+| 🧠 Custom CNN | CNN architecture built completely from scratch |
+| ⚙️ VGG16 | Transfer Learning based pretrained model |
 | 🚀 ResNet50 | Residual Deep Learning Network |
 
 ---
@@ -83,7 +91,7 @@ The application can classify **34 different food categories** using multiple dee
         ↓
 📊 Feature Extraction
         ↓
-📈 Softmax Prediction
+📈 Softmax Probability Prediction
         ↓
 🔴 Redis Nutrition Retrieval
         ↓
@@ -182,13 +190,14 @@ Taquito
 
 | Technology | Purpose |
 |------|------|
-| Python | Core Programming Language |
-| TensorFlow / Keras | Deep Learning |
-| Flask | Web Framework |
-| Redis | Nutrition Database |
-| NumPy | Numerical Processing |
-| PIL | Image Processing |
-| HTML/CSS/JavaScript | Frontend UI |
+| 🐍 Python | Core Programming Language |
+| 🧠 TensorFlow / Keras | Deep Learning |
+| 🌐 Flask | Web Framework |
+| 🔴 Redis | Nutrition Database |
+| 📊 NumPy | Numerical Processing |
+| 🖼 PIL | Image Processing |
+| 🎨 HTML/CSS/JavaScript | Frontend UI |
+| 🚀 Transfer Learning | Model Optimization |
 
 ---
 
@@ -209,8 +218,8 @@ Taquito
 # 🖥️ User Interface Features
 
 ✨ Premium Glassmorphism Design  
-✨ AI Styled Dashboard  
-✨ Interactive Prediction Interface  
+✨ Interactive AI Dashboard  
+✨ Real-Time Prediction System  
 ✨ Nutrition Information Panel  
 ✨ Dynamic Top-5 Predictions  
 ✨ Responsive Layout  
@@ -287,11 +296,42 @@ python app.py
 
 ---
 
+# 🌟 Why This Project Stands Out?
+
+This project is not just a simple image classification model.
+
+It demonstrates how modern AI systems combine:
+
+- 🧠 Deep Learning
+- 🌐 Web Development
+- 🔴 Database Integration
+- ⚡ Real-Time Inference
+- 🎨 Interactive Dashboards
+- 🚀 AI Deployment Workflows
+
+into one complete **production-level AI application**.
+
+---
+
 <div align="center">
 
-# 🏆 End-to-End AI Project
+# 👨‍💻 Project Developer
 
-## Built with ❤️ using Deep Learning, Redis & Flask
+<img src="https://raw.githubusercontent.com/GanjiNagendhraPrasad/Food-Classification-Using-Deep-Learning-CNN-/main/static/pp.png" width="160"/>
+
+## G. Nagendhra Prasad
+
+### AI / ML Engineer • Deep Learning Enthusiast
+
+📧 gnagendhraprasad4@gmail.com
+
+<br>
+
+"Passionate about building AI-powered real-world applications using Deep Learning, Computer Vision, Flask, and modern AI technologies."
+
+<br><br>
+
+# 🚀 Intelligent Food Recognition System Powered By Deep Learning
 
 ### ⭐ If you like this project, give it a star on GitHub ⭐
 
