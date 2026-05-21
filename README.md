@@ -12,15 +12,6 @@
 <img src="https://img.shields.io/badge/Redis-Database-red?style=for-the-badge&logo=redis"/>
 <img src="https://img.shields.io/badge/DeepLearning-CNN-purple?style=for-the-badge"/>
 
-<br><br>
-
-<h2>👨‍💻 Developed By</h2>
-
-<h1>G. Nagendhra Prasad</h1>
-
-📧 gnagendhraprasad4@gmail.com
-
-<br>
 
 <a href="https://github.com/GanjiNagendhraPrasad/Food-Classification-Using-Deep-Learning-CNN-">
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
